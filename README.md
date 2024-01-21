@@ -2,10 +2,17 @@
 whatsapp sender  free
 
 
+### Request
 ```bash
-apt install unzip
+nodejs & npm
+```
+
+### usage :
+```bash
+git clone https://github.com/Ro0TN3T/whatsapp.git
 cd whatsapp
-unzip node_modules.zip
+npm i
+node index.js
 ```
 
 ## php curl
