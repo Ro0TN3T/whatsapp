@@ -47,3 +47,7 @@ echo $response;
 http://localhost:8000/send-group-message
 ```
 
+### note jika gagal module bisa dowload manual 
+
+https://drive.google.com/file/d/13V9YpJLPkdIERYD1A2n1O9G_prdP3WIb/view?usp=sharing
+
