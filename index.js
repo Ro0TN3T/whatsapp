@@ -185,7 +185,7 @@ const updateQR = (data) => {
 };
 
 // send text message to wa user
-app.post("/api/send-message", async (req, res) =>{
+app.post("/send-message", async (req, res) =>{
     //console.log(req);
     const pesankirim = req.body.message;
     const phone = req.body.phone;
