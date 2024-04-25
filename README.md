@@ -19,6 +19,10 @@ node index.js
 ```bash
 git clone https://github.com/Ro0TN3T/whatsapp.git && cd whatsapp && pkg install yarn -y && yarn
 ```
+### RUN :
+```bash
+node index.js
+```
 ## php curl
 
 ```bash
